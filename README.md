@@ -15,8 +15,7 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/_rokaya_raka251" target="blank">
-    <img src="https://img.shields.io/twitter/follow/_rokaya_raka251?logo=twitter&style=for-the-badge" alt="_rokaya_raka251" />
+ 
   </a>
   
   </a>
@@ -82,28 +81,5 @@
 
 ---
 
-### 🔥 Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [https://github.com/Shafin1196/Password-Encryption/pull/10]
-2. 🚀 Published new Flutter package
-3. 🛠 Fixed bug in mobile app
-<!--END_SECTION:activity-->
-
----
-
-### 🏆 Achievements
-- 🏅 Solved 230+ problems on beecrowd
----
-
-
-
-### 💻 Workspace Setup
-<p>
-  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i3-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
-
----
 
 
