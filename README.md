@@ -19,8 +19,7 @@
   <a href="https://twitter.com/_rokaya_raka251" target="blank">
     <img src="https://img.shields.io/twitter/follow/_rokaya_raka251?logo=twitter&style=for-the-badge" alt="_rokaya_raka251" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  
   </a>
 </p>
 
@@ -29,10 +28,27 @@
 ### 🚀 About Me
 - 🔭 I'm currently working on **Flutter projects**
 - 🌱 Learning **Advanced Flutter Architecture & Firebase**
-- 👯 Looking to collaborate on **Open Source Flutter Projects**
+- 💻 Looking to collaborate on **Open Source Flutter Projects**
 - 💬 Ask me about **Flutter, Dart, or Problem Solving**
 - ⚡ Fun fact: **I can solve Rubik's cube in under 2 minutes**
 
+---
+
+
+### 🚀 Languages & Tools:
+<p align="left">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />
+</p>
 ---
 
 ### 📊 GitHub Analytics
@@ -52,65 +68,12 @@
 
 ---
 
-### 🛠 Tech Stack
-
-#### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-#### 🌐 Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 🗃 Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</p>
-
-#### ☁ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-#### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
-
----
-
-### 🔥 Recent Activity
+### 🔥 Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1] in [https://github.com/Shafin1196/Password-Encryption/pull/10]
 2. 🚀 Published new Flutter package
 3. 🛠 Fixed bug in mobile app
 <!--END_SECTION:activity-->
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Flutter State Management: A Comprehensive Guide](https://medium.com/@rokayaraka251/flutter-state-management-a-comprehensive-guide)
-- [Building Your First Flutter App in 2023](https://medium.com/@rokayaraka251/building-your-first-flutter-app-in-2023)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -126,8 +89,8 @@
   <a href="https://twitter.com/_rokaya_raka251">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/rs.mwezi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -136,12 +99,10 @@
 ### 💻 Workspace Setup
 <p>
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i3-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/rokayaraka/rokayaraka/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
