@@ -8,12 +8,11 @@
    
   </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rokayaraka&theme=gruvbox&row=2&column=4" alt="rokayaraka" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rokayaraka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokayaraka&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <a href="https://twitter.com/_rokaya_raka251" target="blank">
@@ -49,19 +48,34 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />
 </p>
----
 
+
+### 📫 How to Reach Me
+<p align="left">
+  <a href="mailto:rokayaraka251@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/_rokaya_raka251">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rs.mwezi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rokayaraka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokayaraka&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokayaraka&theme=radical" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rokayaraka&theme=gruvbox&row=1&column=8" alt="rokayaraka" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokayaraka&theme=radical" alt="Activity Graph" width="90%" />
 </p>
@@ -81,20 +95,7 @@
 - 🏅 Solved 230+ problems on beecrowd
 ---
 
-### 📫 How to Reach Me
-<p align="left">
-  <a href="mailto:rokayaraka251@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/_rokaya_raka251">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rs.mwezi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
----
 
 ### 💻 Workspace Setup
 <p>
