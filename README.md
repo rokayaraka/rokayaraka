@@ -24,11 +24,17 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **Flutter projects**
-- 🌱 Learning **Advanced Flutter Architecture & Firebase**
-- 💻 Looking to collaborate on **Open Source Flutter Projects**
-- 💬 Ask me about **Flutter, Dart, or Problem Solving**
-- ⚡ Fun fact: **I can solve Rubik's cube in under 2 minutes**
+<div style="background: #111; border-radius: 10px; padding: 20px; border: 1px solid #333; width: fit-content;">
+
+<p style="background:linear-gradient(90deg,#ff8a00,#e52e71);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:bold;margin:0;text-align:left;">
+🔭 Building <span style="color:#00ffff">Flutter projects</span><br>
+🌱 Growing in <span style="color:#aaff00">Flutter Architecture</span><br>
+🤝 Open for <span style="color:#ff00aa">Flutter OSS collabs</span><br>
+💬 Expert in <span style="color:#00ffcc">Flutter/Dart</span><br>
+⚡ <span style="text-shadow: 0 0 8px #ff00aa;">Cube solver in <2 mins!</span>
+</p>
+
+</div>
 
 ---
 
