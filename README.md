@@ -69,20 +69,28 @@
 </p>
 
 ---
+
+
 ### 📊 GitHub Analytics
 
 
 
+<!-- GitHub Streak Stats (Live & Working) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokayaraka&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rokayaraka&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
+<!-- GitHub Profile Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rokayaraka&theme=gruvbox&row=1&column=8" alt="rokayaraka" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rokayaraka&theme=gruvbox&row=1&column=8" alt="GitHub Trophies" />
   </a>
 </p>
+
+<!-- GitHub Profile Summary Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokayaraka&theme=radical" alt="Activity Graph" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokayaraka&theme=radical" alt="GitHub Profile Summary" width="90%" />
 </p>
 
 ---
