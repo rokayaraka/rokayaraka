@@ -1,92 +1,69 @@
 <h1 align="center">Hi 👋, I'm Rokaya Sultana Raka</h1>
-<h3 align="center">🚀 Flutter Application Developer | 🧠 Problem Solver | 💻 Tech Enthusiast</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
-  <img src="https://komarev.com/ghpvc/?username=rokayaraka&label=Profile%20views&color=0e75b6&style=flat" alt="rokayaraka" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Flutter+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rokayaraka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokayaraka&layout=compact&theme=radical" alt="Top Languages" />
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </p>
-
+<h3 align="center"> Flutter Developer |  Problem Solver |  Tech Enthusiast</h3>
 ---
 
-### 🌟 About Me
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 20px; border: 1px solid #333; width: fit-content; margin: 0 auto;">
 
-<p style="background:linear-gradient(90deg,#ff8a00,#e52e71);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:bold;margin:0;text-align:center;font-size:1.1em;">
-✨ Building <span style="color:#00ffff">Flutter applications</span> with passion<br>
-🌱 Mastering <span style="color:#aaff00">Clean Architecture</span> & <span style="color:#ffaa00">State Management</span><br>
-💡 Solving <span style="color:#ff00aa">complex problems</span> with elegant code<br>
-🚀 Contributing to <span style="color:#00ffcc">open-source projects</span><br>
-⚡ <span style="text-shadow: 0 0 8px #ff00aa;">Speedcuber (2x2, 3x3, Pyraminx)</span>
-</p>
 
+## 🌟 About Me
+<div align="center" style="padding: 15px; border-radius: 12px; border: 1px solid #1e293b;">
+
+✨ Building **Flutter applications** with passion  
+🌱 Learning **Clean Architecture** & **advanced State Management**  
+💡 Love solving **complex problems** with elegant code  
+🚀 Contributing to **open-source Flutter packages**  
+⚡ Speedcuber — *2x2, 3x3 & Pyraminx*  
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-
-#### Mobile Development
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" title="Android" />
-</p>
-
-#### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />&nbsp;
-</p>
-
-#### Web & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />&nbsp;
-</p>
-
-#### Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,html,css,c,cpp,mysql,firebase" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rokayaraka&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rokayaraka&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokayaraka&theme=radical" alt="GitHub Profile Summary" width="90%" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokayaraka&theme=dracula" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:rokayaraka251@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/_rokaya_raka251">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rs.mwezi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="mailto:rokayaraka251@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/_rokaya_raka251"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/rs.mwezi"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
-  <span style="color:#ff00aa">Always happy to collaborate!</span>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <br>
+  <strong>Always happy to collaborate! 💙</strong>
+  
 </p>
+
+---
+
+
+
+
+
+
