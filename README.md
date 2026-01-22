@@ -1,3 +1,10 @@
+<p align="le">
+  <img src="https://komarev.com/ghpvc/?username=rokayaraka&label=Profile%20views&color=0e75b6&style=flat" alt="rokayaraka" />
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rokaya Sultana Raka</h1>
 
 <!-- Typing Animation -->
@@ -39,8 +46,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rokayaraka&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rokayaraka&show_icons=true&theme=dracula&hide_border=true" />
 </p>
+
+
 
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokayaraka&theme=dracula" />
