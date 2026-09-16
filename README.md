@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rokaya Sultana Raka</h1>
+<h1 align="center">Hi, I'm Rokaya Sultana Raka</h1>
 
 <!-- Typing Animation -->
 <p align="center">
