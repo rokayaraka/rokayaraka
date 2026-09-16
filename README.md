@@ -29,9 +29,7 @@
 
 ✨ Building **Flutter applications** with passion  
 🌱 Learning **Clean Architecture** & **advanced State Management**  
-💡 Love solving **complex problems** with elegant code  
-🚀 Contributing to **open-source Flutter packages**  
-⚡ Speedcuber — *2x2, 3x3 & Pyraminx*  
+💡 Love solving **complex problems** with elegant code   
 </div>
 
 ---
