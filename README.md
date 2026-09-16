@@ -10,7 +10,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Flutter+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Flutter+Developer;Problem+Solver" alt="Typing Animation" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 <p align="center">
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 </p>
-<h3 align="center"> Flutter Developer |  Problem Solver |  Tech Enthusiast</h3>
+<h3 align="center"> Flutter Developer |  Problem Solver </h3>
 
 
 
