@@ -19,7 +19,7 @@
 <p align="center">
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 </p>
-<h3 align="center"> Flutter Developer |  Problem Solver </h3>
+
 
 
 
